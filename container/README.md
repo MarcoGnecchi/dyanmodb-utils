@@ -1,0 +1,1 @@
+Container to provision an instance of DynamoDB with a table defined in a json file
